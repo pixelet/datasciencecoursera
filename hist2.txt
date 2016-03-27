@@ -1,0 +1,102 @@
+    1  pwd
+    2  uname
+    3  git config --list
+    4  git config --global user.name Sohail Jaffer
+    5  git config --global user.email sohail8jaffer@gmail.com
+    6  git config --list
+    7  git config --global user.name "Sohail Jaffer"
+    8  git config --list
+    9  owd
+   10  pwd
+   11  pwd
+   12  ls -ltr
+   13  pwd
+   14  ls -lrt
+   15  pwd
+   16  pwd
+   17  ls -la
+   18  pwd
+   19  git config --list
+   20  ls -lrt
+   21  ls ~
+   22  exit
+   23  pwd
+   24  ls -lrt
+   25  git config --list
+   26  git config --global user.name pixelet
+   27  git config --list
+   28  ls -l README.md
+   29  ls -la ~
+   30  ls -la
+   31  mkdir datasciencecoursera
+   32  ls -lrt
+   33  mkdir ~/datasciencecoursera
+   34  cd datasciencecoursera
+   35  pwd
+   36  ls -lrt
+   37  git init
+   38  git remote add origin https://github.com/pixelet/datasciencecoursera.git
+   39  ls -lrt
+   40  touch HelloWorld.md
+   41  ls -lrt
+   42  vi HelloWorld.md 
+   43  cat HelloWorld.md 
+   44  git add -A
+   45  ls -lrt
+   46  git add .
+   47  git add -u
+   48  git add -A
+   49  git commit -m "updates from my PC"
+   50  vi HelloWorld.md 
+   51  cat HelloWorld.md 
+   52  git add -A
+   53  git commit -m "updates from my PC"
+   54  git push
+   55  git config --global push.default simple
+   56  git push
+   57  git push --set-upstream origin master
+   58  git pull
+   59  git branch
+   60  git pull
+   61  ls
+   62  ls -la
+   63  date
+   64  git config --list
+   65  ls -lrt
+   66  chmod 755 HelloWorld.md 
+   67  ls -lrt
+   68  git add .
+   69  git add -U
+   70  git add -u
+   71  git add -A
+   72  git commit -m "updatesFromPc"
+   73  git branch
+   74  git checkout master
+   75  git commit -m
+   76  git commit
+   77  git push
+   78  git config --list
+   79  history | tee hist.txt
+   80  git push origin master
+   81  git push -u origin master
+   82  git push -u origin -all
+   83  git push -u origin --all
+   84  git pull
+   85  ls
+   86  git pull -u origin --all
+   87  git pull --all
+   88  git branch --set-upstream-to=origin/<branch> master
+   89  git push --set-upstream origin master
+   90  git pull origin master
+   91  ls -lrt
+   92  git init
+   93  git add .
+   94  git add -u
+   95  git add -A
+   96  git commit -m "updates are from my PC"
+   97  git push
+   98  git pull origin master
+   99  git push
+  100  git push --set-upstream origin master
+  101  git push
+  102  history | tee hist2.txt 2>/dev/null
